@@ -1,0 +1,6 @@
+node_modules/
+*.qlaunch.json
+*.pending.json
+*.key
+.env*
+native/target/
